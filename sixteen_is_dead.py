@@ -1,4 +1,4 @@
-"""A simple dice game called sixteen is death."""
+"""A simple dice game called sixteen is dead."""
 
 from math import sqrt, log, e
 
